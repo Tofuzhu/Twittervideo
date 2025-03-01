@@ -1,0 +1,4 @@
+requests>=2.25.1
+argparse>=1.4.0
+python-telegram-bot>=20.0
+yt-dlp>=2023.7.6
