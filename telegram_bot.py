@@ -28,7 +28,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # 请在此处设置您的Telegram机器人令牌
-TELEGRAM_BOT_TOKEN = "7535424250:AAEd_6syjxVUuAaEocnvqB-vXP1dVXSNwjM"
+TELEGRAM_BOT_TOKEN = "更新机器人token"
 
 # 视频文件保存天数，超过这个天数的视频将被自动清理
 VIDEO_RETENTION_DAYS = 7

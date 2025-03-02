@@ -1,0 +1,11 @@
+# 下载目录
+downloads/
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 系统文件
+.DS_Store
+Thumbs.db
